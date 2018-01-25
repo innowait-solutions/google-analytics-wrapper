@@ -1,0 +1,27 @@
+{
+  "name": "innowait-ga-wrapper",
+  "version": "1.0.0",
+  "description": "Simple wrapper in JS to use Google Analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/innowait/google-analytics-wrapper.git"
+  },
+  "keywords": [
+    "google",
+    "analytics",
+    "innowait",
+    "solutions",
+    "javascript",
+    "wrapper"
+  ],
+  "author": "Innowait Solutions Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/innowait/google-analytics-wrapper/issues"
+  },
+  "homepage": "https://github.com/innowait/google-analytics-wrapper#readme"
+}
